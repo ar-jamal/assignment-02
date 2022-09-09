@@ -31,5 +31,3 @@ let F = { ...D['a']['e'] }
 
 console.log(F)
 
-
-
